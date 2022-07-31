@@ -7,7 +7,6 @@ import os #用于查找目录下的文件
 import copy
 import sys
 
-
 #输出图片的位置
 ImageWidth = 128
 ImageHeight = 128
